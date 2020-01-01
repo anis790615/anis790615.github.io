@@ -134,7 +134,7 @@ text-align:center;
 }
 /* Showcase */
 #showcase {
-  background: #b86d11 url('../img/main_showcase.jpg') no-repeat center center/cover;
+  background: #b86d11 url('../img/main_showcase.jpg') no-repeat right center/cover;
   height: 100vh;
   color: #fff;
 }
